@@ -69,6 +69,3 @@ Raporlar kısmında ise rapor_yukle.php miz çalışıyor ve seçtiğimiz hasta 
 
 
 Tüm bu sistem veritabani ile senkronize olarak çalışıyor. İyi günler.
-
-
-Furkan Eraslan 22000459
